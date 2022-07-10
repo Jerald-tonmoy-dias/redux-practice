@@ -1,0 +1,30 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.minimap.maxColumn": 40,
+    "diffEditor.wordWrap": "on",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.formatOnSave": true,
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "bracketPairColorizer.depreciation-notice": false,
+    "material-ui-snippets.showNotesOnStartup": false,
+    "files.associations": {
+      "*.js": "javascriptreact"
+    },
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "tailwindCSS.includeLanguages": {
+      "plaintext": "html,js,jsx,vue"
+    },
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.fontFamily": "fira code,Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "After Dark"
+  }
